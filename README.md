@@ -1,7 +1,7 @@
 # Prueba de casitas
 Este repositorio contiene una prueba de casitas, en el que dependiendo de la casita a la que se le de clic el panel mostrará una cantidad de botones.
-- Al dar clic en la primera casita, el panel mostrará 2 botónes.
-- Al dar clic en la segunda casita, el panel mostrará 3 botónes.
+- Al dar clic en la primera casita, el panel mostrará 2 botones.
+- Al dar clic en la segunda casita, el panel mostrará 3 botones.
 - Al dar clic en la tercera casita, el panel mostrará 4 botones.
 El botón azul es un toggle para el panel que al darle clic se mostrará o se esconderá el panel.
 
