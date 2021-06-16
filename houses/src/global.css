@@ -1,0 +1,81 @@
+body {
+    background-image: url(./images/fondo.jpg);
+}
+
+.toggle-button {
+    width: 12%;
+}
+
+.total-panel {
+    position: relative;
+}
+
+.panel {
+    width: 90%;
+}
+
+.boton1-overlay {
+    position: absolute;
+    width: 7%;
+    top: 50%;
+    left: 45%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 10;
+}
+.home {
+    position: absolute;
+    
+}
+
+.boton2-overlay {
+    position: absolute;
+    width: 7%;
+    top: 50%;
+    left: 55%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 10;
+}
+
+.boton2-1-overlay {
+    position: absolute;
+    width: 7%;
+    top: 50%;
+    left: 60%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 10;
+}
+
+.boton2-2-overlay {
+    position: absolute;
+    width: 7%;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 10;
+}
+
+.boton3-overlay {
+    position: absolute;
+    width: 7%;
+    top: 50%;
+    left: 40%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 10;
+}
+
+.boton3-3-overlay {
+    position: absolute;
+    width: 7%;
+    top: 50%;
+    left: 35%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 10;
+}
+.boton4-overlay {
+    position: absolute;
+    width: 7%;
+    top: 50%;
+    left: 65%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 10;
+}
